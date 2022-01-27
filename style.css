@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+
+
+}
+.col{
+    background-color: coral;
+    flex: 1;
+    margin: 40px;
+    padding: 40px;
+}
+.col-2{
+    background-color: coral;
+    flex: 2;
+    margin: 40px;
+    padding: 40px;
+}
+
+.col-3{
+    background-color: coral;
+    flex: 3;
+    margin: 40px;
+    padding: 40px;
+}
